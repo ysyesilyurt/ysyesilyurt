@@ -9,12 +9,13 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
@@ -31,7 +32,7 @@
 [![](https://img.shields.io/badge/-go%20restclient-000?&logo=Go)](https://github.com/ysyesilyurt/go-restclient)
 [![](https://img.shields.io/badge/-🦠%20CoronaKiller-000)](https://github.com/ysyesilyurt/CoronaKiller)
 [![](https://img.shields.io/badge/-🗄%20Metu%20CENG-000)](https://github.com/ysyesilyurt/Metu-CENG)
-[![](https://img.shields.io/badge/-💬%20CLI%20Chatapp-000)](https://github.com/ysyesilyurt/CLI-ChatApp)
+[![](https://img.shields.io/badge/-💬%20CLI%20ChatApp-000)](https://github.com/ysyesilyurt/CLI-ChatApp)
 [![](https://img.shields.io/badge/-📞%20RDP%20Protocol-000)](https://github.com/ysyesilyurt/RDT-Protocol)
 [![](https://img.shields.io/badge/-📟%20LogWatcher-000)](https://github.com/simsekhalit/LogWatcher)
 [![](https://img.shields.io/badge/-🗃%20Backupify-000)](https://github.com/ysyesilyurt/Backupify)
@@ -40,10 +41,11 @@
 [![](https://img.shields.io/badge/-😈%20virus.py-000)](https://github.com/ysyesilyurt/virus.py)
 [![](https://img.shields.io/badge/-👻%20Privilige%20Escalation-000)](https://github.com/ysyesilyurt/escalate-the-priviliges)
 [![](https://img.shields.io/badge/-👾%20Smashing%20RSA-000)](https://github.com/ysyesilyurt/Smashing-RSA)
+[![](https://img.shields.io/badge/-Operating%20Systems-000?&logo=Windows)](https://github.com/ysyesilyurt/OperatingSystems)
 [![](https://img.shields.io/badge/-🏔%20Computer%20Graphics-000)](https://github.com/ysyesilyurt/ComputerGraphics)
 [![](https://img.shields.io/badge/-🤖%20Embedded%20Programming-000)](https://github.com/ysyesilyurt/PIC-Programming)
-[![](https://img.shields.io/badge/-🐧%20Operating%20Systems-000)](https://github.com/ysyesilyurt/OperatingSystems)
 
 
-<a href="http://ysyesilyurt.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ysyesilyurt&custom_title=Hmm&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysyesilyurt&hide=html&custom_title=Most Used&hide_border=true&layout=compact&langs_count=6&exclude_repo=Metu-CENG,ComputerGraphics&theme=dark" /></a>
+<a href="http://ysyesilyurt.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ysyesilyurt&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark"/>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysyesilyurt&hide=html&hide_border=true&hide_title=true&layout=compact&langs_count=6&exclude_repo=Metu-CENG,ComputerGraphics&theme=dark"/></a>
+<!-- &custom_title=Hmm&custom_title=Most Used-->
