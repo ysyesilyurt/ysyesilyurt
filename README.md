@@ -1,8 +1,10 @@
+<!-- Hey stranger! If you're here then here is my msg for you: 
+  -- If you want to build something like this to your profile you can directly fork this repo (by starring it of course :)) and then edit the content here... -->
 [![Profile views](https://gpvc.arturio.dev/ysyesilyurt)](https://github.com/ysyesilyurt)
 [![GitHub followers](https://img.shields.io/github/followers/ysyesilyurt?label=Follow&style=social)](https://github.com/ysyesilyurt)
 [![Linkedin: ysyesilyurt](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysyesilyurt/)](https://www.linkedin.com/in/ysyesilyurt)
 [![Gmail: ysyesilyurt](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ysyesilyurt@gmail.com)](mailto:ysyesilyurt@gmail.com)
-<!-- Another hitCount ![Visitor Count](https://profile-counter.glitch.me/ysyesilyurt/count.svg) -->
+<!-- Another hitCounter ![Visitor Count](https://profile-counter.glitch.me/ysyesilyurt/count.svg) -->
 
 #### SkillSet
 
