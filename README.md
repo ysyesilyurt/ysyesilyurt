@@ -41,13 +41,13 @@
 [![](https://img.shields.io/badge/-🗒%20TodoApp-000)](https://github.com/ysyesilyurt/TodoApp)
 [![](https://img.shields.io/badge/-🌡%20WeatherApp-000)](https://github.com/ysyesilyurt/WeatherApp)
 [![](https://img.shields.io/badge/-😈%20virus.py-000)](https://github.com/ysyesilyurt/virus.py)
-[![](https://img.shields.io/badge/-👻%20Privilige%20Escalation-000)](https://github.com/ysyesilyurt/escalate-the-priviliges)
+[![](https://img.shields.io/badge/-👻%20Privilege%20Escalation-000)](https://github.com/ysyesilyurt/escalate-the-priviliges)
 [![](https://img.shields.io/badge/-👾%20Smashing%20RSA-000)](https://github.com/ysyesilyurt/Smashing-RSA)
 [![](https://img.shields.io/badge/-Operating%20Systems-000?&logo=Windows)](https://github.com/ysyesilyurt/OperatingSystems)
 [![](https://img.shields.io/badge/-🏔%20Computer%20Graphics-000)](https://github.com/ysyesilyurt/ComputerGraphics)
 [![](https://img.shields.io/badge/-🤖%20Embedded%20Programming-000)](https://github.com/ysyesilyurt/PIC-Programming)
 
 
-<a href="http://ysyesilyurt.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ysyesilyurt&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark"/>
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysyesilyurt&hide=html&hide_border=true&hide_title=true&layout=compact&langs_count=6&exclude_repo=Metu-CENG,ComputerGraphics&theme=dark"/></a>
+<a href="http://ysyesilyurt.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ysyesilyurt&hide_border=false&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark"/>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysyesilyurt&hide=html&hide_border=false&hide_title=true&layout=compact&langs_count=6&exclude_repo=Metu-CENG,ComputerGraphics&theme=dark"/></a>
 <!-- &custom_title=Hmm&custom_title=Most Used-->
