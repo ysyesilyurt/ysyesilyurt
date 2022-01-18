@@ -1,9 +1,9 @@
-<!-- Hey stranger! If you're here then here is my msg for you: 
-  -- If you want to build something like this to your profile you can directly fork this repo (by starring it of course :)) and then edit the content here... -->
-[![Profile views](https://gpvc.arturio.dev/ysyesilyurt)](https://github.com/ysyesilyurt)
-[![GitHub followers](https://img.shields.io/github/followers/ysyesilyurt?label=Follow&style=social)](https://github.com/ysyesilyurt)
+<!-- Hi Stranger! You're so busted! :) -->
+[![Profile views: ysyesilyurt](https://gpvc.arturio.dev/ysyesilyurt)](https://github.com/ysyesilyurt)
+[![GitHub followers: ysyesilyurt](https://img.shields.io/github/followers/ysyesilyurt?label=Follow&style=social)](https://github.com/ysyesilyurt)
 [![Linkedin: ysyesilyurt](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysyesilyurt/)](https://www.linkedin.com/in/ysyesilyurt)
 [![Gmail: ysyesilyurt](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ysyesilyurt@gmail.com)](mailto:ysyesilyurt@gmail.com)
+[![Medium: ysyesilyurt](https://img.shields.io/badge/-Medium-000000?style=plastic&logo=Medium)](https://ysyesilyurt.medium.com/)
 <!-- Another hitCounter ![Visitor Count](https://profile-counter.glitch.me/ysyesilyurt/count.svg) -->
 
 #### SkillSet
@@ -19,6 +19,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=Amazon-DynamoDB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
