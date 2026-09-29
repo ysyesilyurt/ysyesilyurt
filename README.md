@@ -1,54 +1,75 @@
-<!-- Hi Stranger! You're so busted! :) -->
-[![Profile views: ysyesilyurt](https://gpvc.arturio.dev/ysyesilyurt)](https://github.com/ysyesilyurt)
-[![GitHub followers: ysyesilyurt](https://img.shields.io/github/followers/ysyesilyurt?label=Follow&style=social)](https://github.com/ysyesilyurt)
-[![Linkedin: ysyesilyurt](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysyesilyurt/)](https://www.linkedin.com/in/ysyesilyurt)
-[![Gmail: ysyesilyurt](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ysyesilyurt@gmail.com)](mailto:ysyesilyurt@gmail.com)
-[![Medium: ysyesilyurt](https://img.shields.io/badge/-Medium-000000?style=plastic&logo=Medium)](https://ysyesilyurt.medium.com/)
-<!-- Another hitCounter ![Visitor Count](https://profile-counter.glitch.me/ysyesilyurt/count.svg) -->
+<div align="center">
 
-#### SkillSet
+# Yavuz Selim Yesilyurt
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=Amazon-DynamoDB)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Travis](https://img.shields.io/badge/-Travis-000?&logo=Travis-CI)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Windows-Terminal&logoColor=999)
+**Senior Software Engineer @ [Atlassian](https://www.atlassian.com)**  
+Building scalable distributed platform services, backend systems, and developer tooling.
 
-#### Highlighted Repositories
-[![](https://img.shields.io/badge/-go%20restclient-000?&logo=Go)](https://github.com/ysyesilyurt/go-restclient)
-[![](https://img.shields.io/badge/-🦠%20CoronaKiller-000)](https://github.com/ysyesilyurt/CoronaKiller)
-[![](https://img.shields.io/badge/-🗄%20Metu%20CENG-000)](https://github.com/ysyesilyurt/Metu-CENG)
-[![](https://img.shields.io/badge/-💬%20CLI%20ChatApp-000)](https://github.com/ysyesilyurt/CLI-ChatApp)
-[![](https://img.shields.io/badge/-📞%20RDP%20Protocol-000)](https://github.com/ysyesilyurt/RDT-Protocol)
-[![](https://img.shields.io/badge/-📟%20LogWatcher-000)](https://github.com/simsekhalit/LogWatcher)
-[![](https://img.shields.io/badge/-🗃%20Backupify-000)](https://github.com/ysyesilyurt/Backupify)
-[![](https://img.shields.io/badge/-🗒%20TodoApp-000)](https://github.com/ysyesilyurt/TodoApp)
-[![](https://img.shields.io/badge/-🌡%20WeatherApp-000)](https://github.com/ysyesilyurt/WeatherApp)
-[![](https://img.shields.io/badge/-😈%20virus.py-000)](https://github.com/ysyesilyurt/virus.py)
-[![](https://img.shields.io/badge/-👻%20Privilege%20Escalation-000)](https://github.com/ysyesilyurt/escalate-the-priviliges)
-[![](https://img.shields.io/badge/-👾%20Smashing%20RSA-000)](https://github.com/ysyesilyurt/Smashing-RSA)
-[![](https://img.shields.io/badge/-Operating%20Systems-000?&logo=Windows)](https://github.com/ysyesilyurt/OperatingSystems)
-[![](https://img.shields.io/badge/-🏔%20Computer%20Graphics-000)](https://github.com/ysyesilyurt/ComputerGraphics)
-[![](https://img.shields.io/badge/-🤖%20Embedded%20Programming-000)](https://github.com/ysyesilyurt/PIC-Programming)
+[![Website](https://img.shields.io/badge/ysyesilyurt.com-6366f1?style=flat-square&logo=google-chrome&logoColor=white)](https://ysyesilyurt.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ysyesilyurt/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://ysyesilyurt.medium.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ysyesilyurt@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=ysyesilyurt&color=6366f1&style=flat-square&label=PROFILE+VIEWS)](https://github.com/ysyesilyurt)
 
+</div>
 
-<a href="http://ysyesilyurt.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ysyesilyurt&hide_border=false&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark"/>
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysyesilyurt&hide=html&hide_border=false&hide_title=true&layout=compact&langs_count=6&exclude_repo=Metu-CENG,ComputerGraphics&theme=dark"/></a>
-<!-- &custom_title=Hmm&custom_title=Most Used-->
+---
+
+### 🛠 Tech Stack
+
+#### Languages & Core
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+#### Backend & Distributed Systems
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+#### Cloud, DevOps & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+#### Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+### 🚀 Highlighted Repositories
+
+| Repository | Description | Tech |
+| :--- | :--- | :--- |
+| [**go-restclient**](https://github.com/ysyesilyurt/go-restclient) | Fluent, resilient HTTP REST client package for Go with builder pattern | `Go` `HTTP` `Library` |
+| [**zap-fieldbuilder-template**](https://github.com/ysyesilyurt/zap-fieldbuilder-template) | Type-safe, structured field builder template for `uber-go/zap` logging | `Go` `Zap` `Template` |
+| [**Metu-CENG**](https://github.com/ysyesilyurt/Metu-CENG) | Curated coursework, computer systems, and algorithms implementations (75+ ⭐) | `C++` `Python` `OS` |
+| [**CoronaKiller**](https://github.com/ysyesilyurt/CoronaKiller) | 2D multiplayer virus-shooting survival game with server matchmaking | `Java` `Game` `Sockets` |
+| [**RDT-Protocol**](https://github.com/ysyesilyurt/RDT-Protocol) | Multihomed pipelined Reliable Data Transfer Protocol implementation over UDP | `Python` `Networking` |
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+<a href="https://ysyesilyurt.com">
+  <img src="https://github-stats-extended.vercel.app/api?username=ysyesilyurt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Yavuz's GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ysyesilyurt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&exclude_repo=Metu-CENG,ComputerGraphics" alt="Top Languages" height="165" />
+</a>
+
+<br/>
+
+<a href="https://ysyesilyurt.com">
+  <img src="https://streak-stats.demolab.com?user=ysyesilyurt&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="165" />
+</a>
+
+</div>
