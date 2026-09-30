@@ -14,7 +14,7 @@ Building distributed systems and platform infrastructure that don't fall over.
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Languages & Systems**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -40,7 +40,7 @@ Building distributed systems and platform infrastructure that don't fall over.
 
 ---
 
-### 🚀 Highlighted Repositories
+### Highlighted Repositories
 
 [![go-restclient](https://img.shields.io/badge/go--restclient-00ADD8?style=flat-square&logo=Go&logoColor=white)](https://github.com/ysyesilyurt/go-restclient)
 [![zap-fieldbuilder-template](https://img.shields.io/badge/zap--fieldbuilder--template-6366f1?style=flat-square&logo=Go&logoColor=white)](https://github.com/ysyesilyurt/zap-fieldbuilder-template)
